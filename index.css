@@ -17,11 +17,20 @@ body {
     border: 15px ridge aqua;
 }
 #lolo {
-    border: 7px solid indianred;
-    border-radius: 18px;
+    transform: rotate(-12deg) scale(0.3);
+    border: 17px solid indianred;
+    border-radius: 60px;
     opacity: 0.7;
-    box-shadow: 5px 5px 3px#000000;
+    box-shadow: 15px 15px 13px#000000;
+    width: 150px;
+    text-align: center;
+    font-size: 130px;
+    font-weight: 800;
+    transition: 2s all;
 }
 #lolo:hover {
     opacity: 1;
+}
+#lolo:hover {
+    transform: rotate(40deg) scale(0.3);
 }
