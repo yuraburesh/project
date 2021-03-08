@@ -1,8 +1,26 @@
 body {
-    margin: 0;
-    background: url("https://mskins.net/themes/mc/assets/img/parallax1.jpg") no-repeat;
+    background: #0f0;
+    background-image: url(https://mskins.net/themes/mc/assets/img/parallax1.jpg);
+    font-family: Tahoma;
+    font-size: 14px;
+}
 
-font-family: Tahoma;
-    line-height: 1.5;
-    font-size: 18px;
+#glavnoe {
+    font-size:140px;
+    color:GreenYellow;
+    font-weight:bold;
+    background-image: url(https://mcpe-world.ucoz.ru/_ph/1/608453027.png?1609308198);
+    padding: 75px 0 75px 0 ; margin: 0 0 0 0; border: 1px ridge aqua ;
+}
+
+#glavnoe:hover {
+    border: 15px ridge aqua;
+}
+
+#bloc{
+   text:"font-size: 25px; color: black;"
+}
+
+#bloc:hover{
+    size: 100px
 }
