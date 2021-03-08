@@ -16,11 +16,12 @@ body {
 #glavnoe:hover {
     border: 15px ridge aqua;
 }
-
-#bloc{
-   text:"font-size: 25px; color: black;"
+#lolo {
+    border: 7px solid indianred;
+    border-radius: 18px;
+    opacity: 0.7;
+    box-shadow: 5px 5px 3px#000000;
 }
-
-#bloc:hover{
-    size: 100px
+#lolo:hover {
+    opacity: 1;
 }
