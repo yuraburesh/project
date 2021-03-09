@@ -33,4 +33,5 @@ body {
 }
 #lolo:hover {
     transform: rotate(40deg) scale(0.3);
+    background-color: lime;
 }
