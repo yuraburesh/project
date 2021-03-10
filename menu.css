@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    display: block;
+    padding: 0 20px;
+    color: yellow;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    transition: .5s;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    transition: .5s;
+    padding: 10px;
+}
+
+ul:hover li a {
+    filter: blur(4px);
+}
+
+ul:hover li a:hover {
+    font-size: 30px;
+    filter: blur(0px);
+    background-color: #ede739;
+
+}
