@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dc8b165-6c00-4dd7-8d10-8cdd1c792c40" name="Default Changelist" comment="sorry update">
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p6nVhgBQ6GnI5QiTirUjJJPqfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dc8b165-6c00-4dd7-8d10-8cdd1c792c40" name="Default Changelist" comment="" />
+      <created>1614512433283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614512433283</updated>
+      <workItem from="1614512437518" duration="36000" />
+      <workItem from="1614512497588" duration="48000" />
+      <workItem from="1614550625221" duration="850000" />
+      <workItem from="1615061408780" duration="6612000" />
+      <workItem from="1615212054818" duration="6219000" />
+      <workItem from="1615385028631" duration="5021000" />
+      <workItem from="1615674909571" duration="3783000" />
+    </task>
+    <task id="LOCAL-00001" summary="global up">
+      <created>1615163307690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615163307690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="global up process">
+      <created>1615245899710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615245899710</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deg">
+      <created>1615247851949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615247851949</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lime background">
+      <created>1615248024483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615248024483</updated>
+    </task>
+    <task id="LOCAL-00005" summary="menu">
+      <created>1615387449555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615387449555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="menu icon">
+      <created>1615388866078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615388866078</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sorry update">
+      <created>1615678180275</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615678180275</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="global up" />
+    <MESSAGE value="global up process" />
+    <MESSAGE value="deg" />
+    <MESSAGE value="lime background" />
+    <MESSAGE value="menu" />
+    <MESSAGE value="menu icon" />
+    <MESSAGE value="sorry update" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorry update" />
+  </component>
+</project>
