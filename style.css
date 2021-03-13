@@ -12,16 +12,16 @@
     position: relative;
 }
 .home::before{
-    content:"";
-width: 100%;
+    content: "";
+    width: 100%;
     height: 100%;
     background: rgba(0,0,0,0.6);
     position: absolute;
-    top:0;
+    top: 0;
     left: 0;
     z-index: 2;
 }
-.home_video{
+.minecraft_video{
     padding-bottom: 56.25%;
 }
 .home video{
@@ -30,9 +30,8 @@ width: 100%;
     height: auto;
     top: 0;
     left: 0;
-
 }
-.home_content{
+.minecraft_content{
     width: 100%;
     height: 100%;
     position: absolute;
@@ -46,14 +45,13 @@ width: 100%;
     z-index: 3;
     font-family: sans-serif;
 }
-.home_content h1 {
+.minecraft_content h1{
     font-size: 5vw;
     margin: 0 0 15px;
-    text-transform: capitalize;
     font-weight: 400;
     text-align: center;
 }
-.home_content p {
+.minecraft_content P {
     text-align: center;
     font-size: 2vw;
 }
