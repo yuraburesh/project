@@ -20,6 +20,7 @@ li {
     text-transform: uppercase;
     transition: .5s;
     font-family: Archive;
+    text-shadow: 3px 3px 3px yellowgreen;
 }
 
 li a {
