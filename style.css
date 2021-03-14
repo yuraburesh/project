@@ -50,8 +50,16 @@
     margin: 0 0 15px;
     font-weight: 400;
     text-align: center;
+    -webkit-text-stroke: 4px black;
 }
 .minecraft_content P {
     text-align: center;
     font-size: 2vw;
+}
+.minecraft_content p:hover {
+    font-size: 40px;
+    transition: .5s;
+    -webkit-text-fill-color: yellow;
+    -webkit-text-stroke: 2px black;
+    text-shadow: 3px 0px aqua ;
 }

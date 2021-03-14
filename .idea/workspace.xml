@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dc8b165-6c00-4dd7-8d10-8cdd1c792c40" name="Default Changelist" comment="sorry update">
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+    <list default="true" id="7dc8b165-6c00-4dd7-8d10-8cdd1c792c40" name="Default Changelist" comment="sale">
+      <change afterPath="$PROJECT_DIR$/контакты.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -25,11 +29,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -47,7 +53,8 @@
       <workItem from="1615061408780" duration="6612000" />
       <workItem from="1615212054818" duration="6219000" />
       <workItem from="1615385028631" duration="5021000" />
-      <workItem from="1615674909571" duration="3783000" />
+      <workItem from="1615674909571" duration="3913000" />
+      <workItem from="1615727125225" duration="5210000" />
     </task>
     <task id="LOCAL-00001" summary="global up">
       <created>1615163307690</created>
@@ -98,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615678180275</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sale">
+      <created>1615678833101</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615678833101</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +138,7 @@
     <MESSAGE value="menu" />
     <MESSAGE value="menu icon" />
     <MESSAGE value="sorry update" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorry update" />
+    <MESSAGE value="sale" />
+    <option name="LAST_COMMIT_MESSAGE" value="sale" />
   </component>
 </project>
