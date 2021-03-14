@@ -1,17 +1,17 @@
 body {
     margin: 0;
     background: #0f0;
-    background-image: url(https://mskins.net/themes/mc/assets/img/parallax1.jpg);
-    font-family: Tahoma;
-    font-size: 14px;
+    background: url(https://mskins.net/themes/mc/assets/img/parallax1.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 #glavnoe {
+    font-family: Tahoma;
     font-size:140px;
     color:GreenYellow;
     font-weight:bold;
+    padding: 75px 0 75px 0 ; margin: 0 0 0 0; border: 3px ridge aqua ;
     background-image: url(https://mcpe-world.ucoz.ru/_ph/1/608453027.png?1609308198);
-    padding: 75px 0 75px 0 ; margin: 0 0 0 0; border: 1px ridge aqua ;
 }
 
 #glavnoe:hover {
