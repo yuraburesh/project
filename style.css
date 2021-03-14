@@ -47,6 +47,7 @@
 }
 .minecraft_content h1{
     font-size: 5vw;
+    font-family: Minecraft Rus;
     margin: 0 0 15px;
     font-weight: 400;
     text-align: center;
@@ -54,6 +55,7 @@
 }
 .minecraft_content P {
     text-align: center;
+    font-family: Minecraft Rus;
     font-size: 2vw;
 }
 .minecraft_content p:hover {

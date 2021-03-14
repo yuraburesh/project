@@ -19,6 +19,7 @@ li {
     font-family: sans-serif;
     text-transform: uppercase;
     transition: .5s;
+    font-family: Archive;
 }
 
 li a {
@@ -38,3 +39,7 @@ ul:hover li a:hover {
     background-color: #ede739;
 
 }
+ img {
+     margin-right: 10px;
+     margin-left: 10px;
+ }
